@@ -55,7 +55,21 @@ Row Level Security (RLS) policies.
 
 Source code is intentionally kept private.
 
+## Deployment
+
+The application is deployed using Vercel with Supabase providing
+authentication and database services.
+
 ## Project
 
 Simu Doc is a custom repair-management application built for
 demonstration and production use.
+
+## Project Status
+
+Live and actively maintained.
+
+## License
+
+This repository contains project documentation and screenshots only.
+The application source code is private.
