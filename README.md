@@ -28,21 +28,25 @@ https://simudoc.vercel.app/
 
 ## Screenshots
 
+### Login / Authentication
+
+<table> <tr> <td><img src="screenshots/loginPhone.png" width="400"></td> 
+  <td><img src="screenshots/loginPc.png" width="700"></td> </tr> </table>
+
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+<table> <tr> <td><img src="screenshots/dashboardPhone.png" width="400"></td> 
+  <td><img src="screenshots/dashboardPc.png" width="700"></td> </tr> </table>
 
 ### Repairs
 
-![Repairs](screenshots/repairs.png)
+<table> <tr> <td><img src="screenshots/repairsPhone.png" width="400"></td> 
+  <td><img src="screenshots/repairsPc.png" width="700"></td> </tr> </table>
 
 ### Customers
 
-![Customers](screenshots/customers.png)
-
-### Authentication
-
-![Login](screenshots/login.png)
+<table> <tr> <td><img src="screenshots/customersPhone.png" width="400"></td> 
+  <td><img src="screenshots/customersPc.png" width="700"></td> </tr> </table>
 
 ## Security
 
